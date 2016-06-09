@@ -23,4 +23,4 @@ python capture.py
 output
 ------
 
-![sample-output](https://raw.githubusercontent.com/andy1729/camTerm/master/Screenshot%20from%202016-06-09%2018%3A33%3A27.png)
+![sample-output](https://raw.githubusercontent.com/andy1729/camTerm/master/Screenshot.png)
